@@ -61,18 +61,18 @@ color:hsl(0, 0%, 95%) ;
 }
 
 .box1{
-    margin-left: 17%;
-    margin-top: 12%;
+    margin-left: 15%;
+    margin-top: 14%;
 }
 
 .box2{
-    margin-left: 17%;
+    margin-left: 15%;
     margin-top: 13%;
 }
 
 .box3-1 {
     display:block;
-    margin-left: 17%;
+    margin-left: 15%;
     margin-top: auto;
     margin-right: 25%;
     margin-bottom: auto;
@@ -80,7 +80,7 @@ color:hsl(0, 0%, 95%) ;
 
 .box3-2 {
     display: block;
-    margin-left: 17%;
+    margin-left: 15%;
     margin-top: auto;
     margin-right: 19%;
     margin-bottom: auto;
@@ -88,7 +88,7 @@ color:hsl(0, 0%, 95%) ;
 
 .box3-3 {
     display: block;
-    margin-left: 17%;
+    margin-left: 15%;
     margin-top: auto;
     margin-right: 21%;
     margin-bottom: auto;
@@ -96,24 +96,25 @@ color:hsl(0, 0%, 95%) ;
 
 .box4-1{
     
-    margin-left: 15%;
+    margin-left: 14%;
     margin-top: 27%;
-    margin-bottom: 14%;
+    margin-bottom: 23%;
     margin-right: 38%;
 }
 
 .box4-2{
-    
+    margin-left: 14%;
     margin-top: 27%;
-    margin-bottom: 21%;  
+    margin-top: 27%;
+    margin-bottom: 23%;  
 }
 
 
 .box4-3{
     
-    margin-left: 15%;
+    margin-left: 14%;
     margin-top: 27%;
-    margin-bottom: 21%;
+    margin-bottom: 23%;
     margin-right: 38%;
 }
 
