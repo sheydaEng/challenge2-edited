@@ -50,7 +50,7 @@ font-family:'Lexend Deca';
 font-weight: 350;
 color:hsla(0, 0%, 100%, 0.75) ;
 font-size: 14px;
-opacity: 99%;
+opacity: 98%;
 }
 h1{
 font-family:'Big Shoulders Display';
@@ -70,16 +70,57 @@ color:hsl(0, 0%, 95%) ;
     margin-top: 13%;
 }
 
-.box3{
+.box3-1 {
+    display:block;
     margin-left: 17%;
-    margin-top: 9%;
+    margin-top: auto;
+    margin-right: 25%;
+    margin-bottom: auto;
 }
+
+.box3-2 {
+    display: block;
+    margin-left: 17%;
+    margin-top: auto;
+    margin-right: 19%;
+    margin-bottom: auto;
+}
+
+.box3-3 {
+    display: block;
+    margin-left: 17%;
+    margin-top: auto;
+    margin-right: 21%;
+    margin-bottom: auto;
+}
+
+.box4-1{
+    
+    margin-left: 15%;
+    margin-top: 27%;
+    margin-bottom: 14%;
+    margin-right: 38%;
+}
+
+.box4-2{
+    
+    margin-top: 27%;
+    margin-bottom: 21%;  
+}
+
+
+.box4-3{
+    
+    margin-left: 15%;
+    margin-top: 27%;
+    margin-bottom: 21%;
+    margin-right: 38%;
+}
+
 button{
    
     height: 48px;
     width: 148px;
-    margin-left: 15%;
-    margin-top: 20%;
     border-radius: 28px;
     font-family:'Lexend Deca';
     font-weight: 400;
@@ -97,7 +138,7 @@ button{
     background-color:hsl(31, 77%, 52%); ;
 }
 .btn2{
-
+    margin-right: 38%;margin-left: 15%;
     background-color: hsl(184, 100%, 22%);
 }
 .btn3{
