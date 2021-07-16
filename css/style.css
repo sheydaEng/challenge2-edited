@@ -1,6 +1,8 @@
 @font-face {
     font-family:'Lexend Deca' ;
     src: url('../fonts/LexendDeca-Regular.ttf');
+}
+@font-face {
     font-family: 'Big Shoulders Display';
     src: url('../fonts/BigShouldersDisplay-Bold.ttf');
 }
@@ -13,18 +15,17 @@ body{
 }
 
 .container{
-        display: flex;
-        width: 65%;
-        height: 460px;
-        border-radius: 10px;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 7%;
-        margin-bottom: 7%;
-                /* position: relative; */
-        /* transform: translate(266px, 88px); */
+    
+    display: flex;
+    width: 65%;
+    height: 460px;
+    border-radius: 10px;
+    /* align-content: center; */
+    justify-content: center;
+    /* position: relative; */
+    transform: translate(30% , 16%);
     border-radius: 7px;
-    box-shadow: 1px 1px 4px 3.5px rgba(0,0,0,0.1);
+    box-shadow: 1px 1px 4px 3.5px rgb(0 0 0 / 10%);
   
 }
 .left-container{
